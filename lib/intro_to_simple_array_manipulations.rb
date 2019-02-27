@@ -33,3 +33,6 @@ end
 def using_concat(arr, arg)
   arr.concat(arg)
 end
+
+def using_insert(arr, arg)
+end
