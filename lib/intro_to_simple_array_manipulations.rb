@@ -29,3 +29,7 @@ end
 def shift_with_args(arr)
   arr.shift(2)
 end
+
+def using_concat(arr, arg)
+  arr.concat(arg)
+end
